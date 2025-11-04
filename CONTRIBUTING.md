@@ -42,15 +42,15 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:stainless-sdks/cleancloud-typescript.git
+$ npm install git+ssh://git@github.com:SavantCaleb/cleancloud-mcp-production.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/stainless-sdks/cleancloud-typescript
-$ cd cleancloud-typescript
+$ git clone https://www.github.com/SavantCaleb/cleancloud-mcp-production
+$ cd cleancloud-mcp-production
 
 # With yarn
 $ yarn link
